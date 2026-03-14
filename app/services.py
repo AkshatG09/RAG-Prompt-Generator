@@ -82,7 +82,9 @@ async def get_user_history(user_id: str) -> list[dict]:
 # -----------------------------
 # MongoDB Save Interaction
 # -----------------------------
-async def save_interaction(user_id: str, user_request: str, generated_prompt: str):
+async def save_interaction(
+    user_id: str, user_request: str, generated_prompt: str, retrieved_context: list[str]
+):
     """Saves the user request and generated prompt to MongoDB."""
 
     collection = database.mongo_db["conversations"]
@@ -91,7 +93,8 @@ async def save_interaction(user_id: str, user_request: str, generated_prompt: st
         "user_id": user_id,
         "user_request": user_request,
         "generated_prompt": generated_prompt,
-        "timestamp": datetime.utcnow(),
+        "retrieved_context": retrieved_context,
+        "timestamp": datetime.now(),
     }
 
     await collection.insert_one(document)
@@ -154,7 +157,10 @@ Return only the final prompt.
 
     # 5️⃣ Save interaction
     await save_interaction(
-        request.user_id, request.request_description, generated_prompt
+        request.user_id,
+        request.request_description,
+        generated_prompt,
+        [guidelines_context],
     )
 
     return {"prompt": generated_prompt, "context": guidelines_context}
