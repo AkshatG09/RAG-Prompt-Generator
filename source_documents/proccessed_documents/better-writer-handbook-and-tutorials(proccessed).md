@@ -1,0 +1,546 @@
+# Welcome to your writing lesson plan!
+
+Welcome to your writing lesson plan! This is for anyone looking to make your writing better by improving the 5 core elements that make for interesting, engaging stories and beautiful writing.
+
+I developed this lesson plan just for you to make your writing better. I highly encourage you to go through each of these lessons and really let them sink in.
+
+## Laying the Foundation
+
+I won't lie: I love me some Stephen King, but not everyone can whip up a story on a whim the way he can, without an outline, that is. I personally recommend every single student of mine create at least some sort of outline in the process of planning a novel because seeing the overall structure and shape of your story is the most important. How else can you plant seeds and toy with your readers' minds in the most delightful way? If you think you're a "discovery writer," meaning you don't have or use an outline, just make sure that's not false. The best way to tell is to follow this rule: if you make more progress without an outline, you're a discovery writer but if you get more writing done with an outline, for the love all readers everywhere, use one.  (Most of the time...discovery writers aren't actually discovery writers)
+
+Hopefully by now you have your story structure templates and pre-formatted outline ready to go. Grab that and let's head into the lesson!
+
+Nothing lasts without a great foundation-take it form the Great Pyramids of Giza. Treat your book like those ancients did and set out to plot your novel or story before diving into the writing. I know, it's tempting to get to work when you have ideas but the writing will be far better when you know where you're going with it.
+
+### PLANNING FOR DISASTER
+
+First let's look at the overall premise of your book. What's the one sentence elevator pitch you give to people when they ask what your book's about? Yes, I'm aware your book is "complicated" as all are, but what is that hook people will hear and be drawn into? And what is the promise you are making to your reader throughout the book? Here are a couple examples:
+
+Get the idea? It's a quick, simple way of letting yourself know what the book is mainly about (even though there is far more to both of those examples above and your book too). Jot down your book's premise before moving on to step 2.
+
+### YOUR MAIN PLOT POINTS
+
+Most great stories follow similar structures, and tweaking these formats is what bring originality and intrigue to stories. But before we tweak, let's get the foundation of the structures set. Pull up your story structure template you got access to in our last lesson. You have 3 options for your story's main structure, and that's dependent upon what your story is about and even its overall genres. Here are the three main structures that make for successful (and therefore good) stories:
+
+* 3 Act Structure
+
+
+* Hero's Journey
+
+
+* 5 Milestones
+
+
+
+No matter which you choose, there will be a few areas that are the same, and we'll cover those here (and we'll tailor to your specific story type in your structures templates). Every story needs to these elements in order for it to make sense, pull readers in, and become a satisfying read: the setup, the inciting incident, first failure, second failure, climax, and resolution. Let's plan those out together here:
+
+**THE SETUP**
+This is basically the opening of your story. And please, for the love of all things good left in this world, don't start with your character waking up and avoid starting with a dream (these have grown to be clich  and readers don't like them anymore). The setup is extremely important for introducing your main character. We really want to understand who they are, what their everyday life looks like now, and what problems they're facing in their life currently. One great tidbit to think about is this: what issues can you open the story with that shows who your character is, what their nature is, and is exciting enough for readers to be fully invested. Bonus points if you can make your reader feel sympathy for the character right off the bat!
+
+**THE INCITING INCIDENT**
+This is truly what kicks off the story and makes readers continue to flip those pages. The inciting incident is the moment where the plot of your story begins. If you're writing a novel, you need an inciting incident. The key here is to do it well by including the necessary elements to do just that. Here's what an inciting incident needs to do:
+
+* Alter a hero's life in an irreversible way
+
+
+* Draw a Line between mundane life and the Quest
+
+
+* Kick Off the story's MAIN plotline
+
+
+
+An great example is Katniss Everdeen volunteering as tribute. THAT is the moment her life is forever changed, that she can't go back from, and that moves the main plot forward.
+
+**THE FIRST FAILURE**
+Your character has to fail and succeed several times in a story in order for it to be appealing. If your character is always winning, nobody is going to keep reading that. This also introduces a sense of progress to the readers, which is really why we keep reading a book. This first failure is a big one: it disrupts their plan and brings them backward in their goal. Usually, this happens after a recent "win" in order to bring the character back down. What's something you can make your character fail at that still gives your readers hope they can succeed?
+
+**THE SECOND FAILURE**
+After the first failure, you should let your character win for a bit (however, they can "fail" in other areas not related to the main plot for increased intrigue-but we'll get to that in another lesson). This big failure typically comes before the climax and is also often referred to as the "breaking point" in a story. You want your character to lose all hope they can succeed, and the readers will also lose hope but only maintain a small portion of it. AKA: this is a big fail.
+
+**THE CLIMAX**
+We all know what the climax is. This is when all the action comes to a head and is often what writers think up earliest on in the idea-generation phase.  What's happening here? Who or what is your character up against? What do they have going for them and what do they have going against them (hint: the stuff against them should outweigh the stuff going for them).
+
+**THE RESOLUTION**
+All the action following the climax is the resolution. How are loose ends tied up? Are any new conflicts opened that you can move into another book in this same series? Now, these are very basic concepts and can happen at various points in the book-they're flexible and you can tailor them to meet your book's needs and you can even change things up to challenge traditional story structures. HOWEVER, keep in mind that these elements are why people like and enjoy books and stories.
+
+### MAKING IT ORIGINAL
+
+Here's the part you've been waiting for, for all of you saying "But Ramy, I don't want to write a book with the same structure as all the other books... bah!" Trust me, I understand, and since you now have that base foundation, we get to PLAY!  Making your stories unique and interesting is important. This is what makes your book memorable and the "basic" way we all know how to do this is the great, wondrous, enticing TWIST within a book. Here are a few more ideas for making your story more original (and we'll touch on a few in later lessons):
+
+* Injure or kill off a character (just be careful not to piss off the reader)
+
+
+* Bring in a thought-to-be-dead/gone character later in the story
+
+
+* Create a natural disaster
+
+
+* Write a false-climax followed by the real one (and make your character even think it's the real "big moment"!)
+
+
+* Write a false-win: make your character and reader think something went well that really was a negative for the character's journey
+
+
+
+This is pretty hard to help you with via a PDF lesson, since I don't know your story-which is why I go through this step-by-step with my students for their unique plot. But you can get the idea here, and we'll cover a few more tactics in later lessons as well.
+
+### PUT IT ALL TOGETHER
+
+Now that you have all this information down, however you chose to record it, put it all together in your story structures templates. This will give you what you need to connect these pieces with other plot points in your pre- formatted outline. Remember to use the tips within the outline in order to craft the sequence of events in order to produce a story readers won't want to put down!
+
+### RESOURCES
+
+You didn't think I'd just leave you without any homework, did you? Check out these blog posts to get a handle on some of the concepts above and work on that outline:
+
+* How to Start a Story
+
+
+* Prologue (Use with caution!!)
+
+
+* Story Structures
+
+
+* Parts of a Story
+
+
+* Inciting Incident
+
+
+* How to Outline a Novel
+
+
+* How to Write a Novel
+
+
+* Worldbuilding
+
+
+
+PHEW! Take a deep breath, remember why you love to write, and get to work on that outline. I'll check back in tomorrow for Lesson #2!
+
+---
+
+## Characters & Conflict
+
+The previous lesson was all about setting the foundation, meaning getting your plot mapped out with specifics. Now, we go even deeper and you'll learn how to create really good characters people will love (and a special formula that makes it so!) along with how to use those characters to create more interesting plot conflict and subplots that keep readers turning pages.  Ready to dive in? Let's get to it!
+
+The characters are one of the most important parts of your story. You can have a crappy plot with a great character and still make a good book.  But you can't have a great plot with a crappy character and write a good book. Those are not interchangeble. This is why getting your characters right is so damn important.
+
+SO! Let's get into some character crafting, shall we?
+
+### CREATING A "REAL" CHARACTER
+
+Nobody wants to read about a character who is perfect and does nothing wrong-not even if "they're supposed to appear perfect!" Even so, you have to add in flaws, even minor ones that are hard to notice if you want a character to appear to be flawless.  The idea here is that you need readers to relate to your character to make them feel real. That's it.  That's how you do it. There isn't a long list of complicated "quirks" you have to give them. It's actually quite simple: give them a real-life problem you and I face every day and they'll feel real. What this does is creates sympathy for your characters and this is by far the most important part.  Think about it. What makes you root for characters (even villains: hello Cersei Lannister)?  It's when you feel bad for them. And this is done rather easily, actually. Here are a few ideas to make your character more realistic, relatable, and sympathetic to the readers:
+
+* Make them lose something vital that most readers will have (body part, use of a body part, family member, etc.)
+
+
+* Have somebody be mean to them early on for reasons they have no control over-like their appearance or status in the community or parents, etc. (but realistically and not too dramatically)
+
+
+* Have something they're doing for the greater good go wrong
+
+
+
+These are just a few ideas to make your character relatable to the reader, and therefore make them feel more real.
+
+### MISTAKES TO AVOID
+
+I've read a lot of books, good and bad. One thing that can ruin any plot, no matter how creative or interesting, is a bad character. These are a few things you want to avoid when crafting a character:
+
+* Making them perfect/flawless
+
+
+* Giving them too many "quirks"
+
+
+* Having unclear motives or motives that don't make sense
+
+
+* Only giving them one dimension: meaning they're good at one thing and have no other personality traits
+
+
+* Not giving them a passion or interest outside the main plot (we'll get to this below)
+
+
+* Creating multiple character that are too much alike
+
+
+* Making all your character speak in the same way (we'll touch on this when we get to dialogue in a later lesson)
+
+
+* Only making the main character realistic (they all have to be...)
+
+
+* Making your villain cartoon-ish in behavior (over dramatic with no sound motives)
+
+
+* Not thinking about plot when crafting your characters..which leads me to the next section!
+
+
+
+### TYING YOUR CHARACTER TO YOUR PLOT
+
+It's the age old question of what comes first, the chicken or the egg?  In this case, the character or the plot? In truth, you should be crafting them together, which is why I have this lesson directly after your plotting one...
+
+Because these two things will merge and you will have to make changes within your plot to fit your character and vice versa. And you'll also have to think about your character arc when thinking about the plot because your character does need to change, which will impact how they react to what you have plotted. Here's an example of how the plot and character arc work together:
+
+The reason you have to fit the character and the plot together is because when you bring a character who is designed to not want to do what they need to in your plot, you create something interesting. By this, I mean creating a Katniss Everdeen and a plot like The Hunger Games. Her character, by nature, isn't someone who desires killing or feels it's a reward the way some of the other competitors is. This makes it interesting because not only does she have the plot conflict to deal with, but she also has an inner conflict-fighting to be something she's just not. If you do this with your characters, you will have an interesting story because when your readers know your character well, a new plot point that goes against who they are will be intriguing and they'll want to keep reading. These are a few ideas you can use to get brainstorming about this for yourself:
+
+* Create a character who has moral dilemmas with their actions that must move the main plot forward (like Hunger Games)
+
+
+* Think about how you can use other characters with the plot to create further conflict (one character has a refuse-to-obey attitude and your main character is in charge)
+
+
+* Give your main character a different motive for the main plot than other characters (they want the same end-goal but for different reasons)
+
+
+* Think about how you can use your character's weaknesses to make the main plot more difficult (they have a stutter and must be the "voice" of a revolution, for example)
+
+
+
+### USING CHARACTER TO CREATE FURTHER CONFLICT
+
+In real life, we have to work with people we don't necessarily like, and this causes conflict in our everyday lives. You can use this same idea in order to further sub plots and create a more compelling story. Because spoiler: readers want more than just the main plot.
+
+That's why so many books have romantic subplots. Now, you don't need a romantic subplot but there should be something that's more intriguing than just the plot. One way to do this is to make your character really passionate about something outside of the storyline entirely. Maybe they're a dancer who has the biggest performance of their life the same day your main plot's climax is set to go down. Maybe they're trying to pass midterms while battling an evil demon force on campus. You see how these two things can clash and make things more complicated and interesting? Bonus points if they're so unrelated it's almost comical.
+
+Another way is to use other characters to create more conflict with your main character. A lot of people like to use FOIL type characters for this. These characters are basically the exact opposite of your main character. What this does is highlight their differences and introduce new levels of conflict into the plot. Perhaps your main character wants to go about solving something one way, and the other wants to do it a completely different way and now you have layers of conflict that readers are sucked into. Think about these things when crafting your characters:
+
+* What habits or ticks can you give a side character to irrationally annoy your main character?
+
+
+* How can you use a character relationship to create more conflict that's different than your main plot?
+
+
+* What strengths do your side characters have that your main character wants to have?
+
+
+* What character weaknesses can you create to further add conflict to the relationships?
+
+
+
+### RESOURCES
+
+* Character development
+
+
+* Character archetypes
+
+
+* Crafting a strong protagonist
+
+
+* Naming characters
+
+
+
+Have fun crafting your characters!
+
+---
+
+## Voice & Style
+
+Is your brain buzzing with too much information yet? That can happen, which is why we're breaking this up instead of just dumping it all on you at once. That being said, this lesson can be one of the hardest for folks to take in because it's not really something I can explicitly change or alter for you, but we'll try to nail down some helpful tips anyways! The way your words sound in the minds of your readers is what your voice and style is. And these can be super important depending on how you're writing your book, what your book is about, the mood you wish to create, and what your main character is truly like. Because we've nailed down some of the plot and character details, it's the perfect time to discuss what your voice and style will sound like for this story.
+
+### BEING ORIGINAL & AVOIDING COMPARISON
+
+For most writers, this is the hardest part when you're first getting started. You likely grew up reading books you've loved and have probably tried to mimic another author's voice and style in the hopes of your writing be just as good. I have good news and bad news about that:
+
+You can never completely copy another writer's voice or style and think it will produce the same quality writing...in fact, it'll likely be far worse than if you stick with your writing voice. The good news here is just this: when you get into your rhythm, you write far more, far better, and are far happier with the results because it sounds like you. But, on that, most of us like voices and styles that are most like our own. So while comparing your writing to someone else's is never a good idea, consuming books that have a voice/style yours is similar to can actually make it stronger. Now, with that out of the way, let's get into some more information on how to nurture and draw our your own voice and style.
+
+### YOUR VOICE
+
+I know I've been using these two terms together, but they're actually different. Your voice is much more about how you use your words, your sentence syntax, the rhythm and sound of what you're writing. That's what we'll focus on here and what's interesting about this is that your voice is usually the most natural...and therefore hardest to change.  But you don't want to change your voice. Because the voice is what makes your writing unique and yours. However, you can alter this slightly in order to fit the book you're writing- and more specifically, the character's point of view you're writing from. Let's talk about point of view quickly as well:
+
+In this point of view, your voice will leak through more so than the voice of your characters, because it's you telling the story.
+
+### HOW TO DEVELOP YOUR WRITING VOICE
+
+Unfortunately, the one and really the only thing you can do to find your writing voice is to write and write a lot.  Every day. And don't think too much about it. Just sit down and let the words come out. Over time, you'll find that there's a certain rhythm to how you write that feels and sounds natural to you: this is your voice.
+
+### YOUR STYLE
+
+Style is different than voice because it's more about the format, pacing, and way in which you tell your story. There are authors who write fast-paced, quick books with quipped sentences. These books often move fast and usually have a thriller-esque feel to them (think: Stephen King). And there are other authors who tend to write books that feel slower, with longer chapters and more elegant prose, even (think: George R.R. Martin). The good thing with style is that you can change this depending on the type of book you're writing and in which genre. Matching your writing style to the book genre can make a world of difference in how the book feels. But for romance novels, that style is perfect because those readers want to fall in love just as the characters do, and using more elegant phrasing and structures is better suited to fit that genre.  What's your book's genre? Which style of writing will fit your book the best, keeping in mind that just because you want a faster-pace doesn't mean you can't slow it down and include some of those longer, elegant sentences (people have to breathe, after all!).
+
+That's all I have for this lesson! Our next lesson will be about most of my student's favorite teachings: how to nail stronger, more captivating writing with some actionable tips and tons of examples.
+
+---
+
+## Strong Writing
+
+Welcome to lesson 4... what is likely the main reason you even signed up for these lessons in the first place:
+
+To learn how to become a stronger writing when it comes to prose. If you're not sure what "prose" is, it's the actual writing, the sentences, the paragraphs, and the way these things come together to create a mental image in the mind of your lucky readers. For this lesson, we're tackling the main "writing rules" along with some really great examples to show and not just tell you how it's done...see what I did there?! When you think of really great writing, it's probably something that made you pause to really admire the way in which the words were put together. It also probably created a very strong, clear image in your mind.
+
+That's strong writing. When you can transfer the vision in your mind into somebody else's with nothing more than words...
+
+Well, it's why we read-it's practically magic.
+
+### SHOWING VERSUS TELLING
+
+If you've researched writing advice at all, you've probably come across this concept. It's the idea that instead of telling the reader what has happened, you show them by creating as scene to depict what you want them to take away from that moment.  Think of it like a game of charades. You can't use words that give away what you want them to understand; you can only show them certain things so they arrive at that same conclusion.
+
+Why is this important?  When you just tell readers stuff, they feel cheated. Readers pick up a book for the experience. They want to figure things out themselves, they want to be the ones with that "ah ha!" moment so if you just explain it all, it's not fun.
+
+So how do you do this?  It's actually quite easy once you break it down. Most of us write our outlines in a "telling" way:
+
+Now, instead of simply telling the reader that she's upset and that it's because her father is no longer there, your job is to create a scene in which the reader will come out with that conclusion without you having to tell them. It might begin to look something like this:
+
+As you can tell, there's far more you can write in order to get this point across but you're not here to read a novel. Just with these two paragraphs, you can get a feel of what Jordin is going through and that her father is no longer there, which causes her discomfort.  Which is more appealing? The one-sentence to describe this, or paragraphs of crafted imagery that makes you feel what she is? The latter, yes.
+
+Doing this also beefs up your word count so if you find that your chapters are super short, it's probably because you're doing more telling than showing. And you can make this even better by adding in this second part...using strong language.
+
+### WORD CHOICE AND DESCRIPTIONS
+
+Word choice matters. But before you grab your thesaurus (who'm I kidding... before you open Thesaurus.com), you have to know when the word choice matters. The things most beginner writers get wrong is that you can describe an entire room with a single sentence if you use the right language-strong language. Read these examples:
+
+Both of those sentences tells you what the room looks like and describes the bed. However...one gives you a much better picture as to what that room looks like. And because you have a few small details, your imagination can paint in the rest much easier with the second example versus the first. Pick out the words that made a difference in the second example:
+
+* dome ceiling
+
+
+* crystal chandelier
+
+
+* silk linens (even using the word "linen" gives this room a particular vibe)
+
+
+
+Now read this example:
+
+Again, this is essentially the same description of a room, but because of the carefully chosen words, this room looks a whole lot different than both of the examples from above. Now pick out the words here that made a difference from the second example above:
+
+* a-frame ceiling
+
+
+* logs
+
+
+* rusted chandelier
+
+
+* fur blankets piled on the bed
+
+
+
+The words you use to describe those first few items in a room will shape how your reader sees everything in that room going forward. The very first example makes it hard to have an image in your mind, the second gives you a very distinct "royal" or "wealthy" and elegant feel to the room, whereas the last is much more rustic, with a log cabin vibe. These choices in how you describe the very first "view" of a new room or environment sets the tone for the rest of the scene. This concept is also specific to "getting concrete" with your visuals, which we'll touch on even more below.
+
+### STRONG VERBS/LANGUAGE
+
+Strong language and strong verbs are really what gives your writing life. It's what shows your readers what your characters and what your scene looks like. We did a lot of this above, but now I want to take it a step further and talk about verbs and the action words you use. Here's a sentence with poor language/verbs:
+
+It's not a bad sentence, and it tells you what she did.  However, it doesn't tell you how she did it. That's where strong verbs come into play: they tell you the "how" of the action. Instead, here's a better version:
+
+With only a single word change, we have a completely different understanding of how Jordin is performing the action of walking, which does more to show us what's happening instead of telling us. See how all of this is coming together?
+
+We have a list of strong verbs that replace often-found weak verbs in writing. Grab yours right here and go through to edit your writing and see if you can make it stronger and more clear.
+
+### GETTING CONCRETE
+
+Concrete versus abstract is a very, very important thing in writing that not enough people talk about. I find that it'll be more interesting to show you versus tell you what I mean:
+
+Dog
+
+Is that concrete or abstract? Many of you will think "concrete," since it's a tangible thing...but if you say "dog" to 10 people, you will have 10 different versions of what that looks like in someone's head. Therefore, "dog" is actually a very abstract word that doesn't do much to paint a picture. The idea with getting concrete is to be as specific as possible when describing what's important. Instead of saying:
+
+You can write:
+
+When you have something that you really want your readers to "see" in their mind's eye, you have to be concrete. This helps your story come to life in their mind and it also creates a much better experience for the reader. I encourage you to go through some of your writing and highlight words that are abstract, that can be "seen" in many different ways in someone's mind, then see how you can describe it how you are seeing it specifically.
+
+### LETTING THE READER BREATHE
+
+This is a part of writing that so many beginners get wrong. When you see the tips above, I want you to pick and choose when and where to apply them because if every single thing you write is full of excess description, your reader will grow tired. You have to let the reader breathe, and when you do is a moment you can emphasize. You can pick when to give them a breath and at the same time, emphasize the importance of that breath. I'm going to pull an example from earlier and expand upon it to show you what I mean:
+
+If you remember from part 1 of this lesson, the first two paragraphs are meant to show you how Jordin is feeling and experiencing the walk to the mailbox. All I added in this was the last sentence.
+
+It's short, simple, and yes, telling, because so far, we've given our readers a dose of "showing," and now we can confirm their interpretation with a simple sentence of "telling" that punches with impact. It's as if the character herself takes a breath in the space you allow the reader to. It gives you a breath and then you can move on again. Think about all of these tips when writing, but then think of where you can "break" and add something that's impactful and telling so your readers don't grow too tired. When you don't break or give them a breath, your writing becomes full of "purple prose," which is flowery, beautiful, descriptive writing...but too much of that is a bad thing.
+
+### RESOURCES
+
+* Show Don't Tell in Writing
+
+
+* Strong Verbs Blog Post
+
+
+* Editing Writing to Replace Weak Verbs
+
+
+* General Writing Tips & Rules
+
+
+* Creative Writing Exercises
+
+
+* Literary Devices to Improve Your Writing
+
+
+
+That's all for this lesson! In the next one, we'll be covering every writer's faaaaavorite part: grammar-with dialogue too!
+
+---
+
+## The Grammar of Writing
+
+Let's get right into the grammar side of writing, since this is something so many writers struggle with. We'll cover the basics, along with dialogue since that's an area that's a bit difficult to get right.
+
+### GRAMMAR, DIALOGUE & SENTENCE STRUCTURE
+
+(oh my!)
+
+Now I know this area can be really annoying...and besides, you'll end up hiring an editor anyways (or will be provided with one if you choose the traditional route), but as a writer, you've got to know this stuff anyway.
+
+### BASICS OF GRAMMAR
+
+I don't want to be patronizing here, so I'll cover some of the basics and then some rules you're allowed to break, as a writer. Not all grammar has to be followed 100% of the time. That being said, we always recommend knowing the rules before breaking them, that way you do so with intention and not because you're unaware.
+
+### COMMAS
+
+While these might be the easiest to understand and use, some writers forget that you can use commas in order to tell readers how sentences are supposed to sound. Example -
+
+While very similar, that extra pause after "well" changes the emphasis, the speed, and the tone of the sentence. Using commas carefully can actually help you craft better and more realistic dialogue (that is more unique to each character, and therefore more realistic). Commas are used to create spaces in sentences, breaths, if you will. They change the inflection and the way the sentence sounds.
+
+These are general rules when using commas:
+
+* Use it before any conjunction (words like and, but, for, etc.) that links two separate topics: I didn't really like math, but I couldn't stop staring at her.
+
+
+* Use one after a dependent clause that starts a sentence: When I stopped at the store, he was there.
+
+
+* Use it to separate things in a series: When I went to the store, I saw that guy, a weird old lady, and a flying pair of pants.
+
+
+* Use one after an adverb at the start of a sentence: Obviously, he didn't want to talk to me.
+
+
+* Use one after a "yes" or "no" at the start of a sentence: Yes, the dog actually did a front flip!
+
+
+* Use one between two adjectives in a sentence: He was a large, hairy man.
+
+
+
+There are so many other ways in which you should use commas. These just so happen to be the most common areas I find writers get them wrong (including with dialogue, but we'll get to that below).  And just because it's an important topic: oxford comma. Use it.
+
+### SENTENCE ENDINGS
+
+Period, exclamation mark, question mark, and all those good things. This section is pretty short since I know you already know most of this. However, there are a couple rules I want you to be aware of as a writer:
+
+* Don't use an exclamation point unless a character is actually yelling or that shocked.
+
+
+* Never use two forms of punctuation together in professional writing (like this?!), it will be deleted by your editor unless it's used for a very specific stylistic choice (and fits the character)
+
+
+* If you use a question mark at the end of what should be a sentence, it will make your character look insecure (and if that's what you're going for, great!)
+
+
+
+### HYPHENS:
+
+If you're using two words to stand in as a single word or meaning and it is not a compound word, a hyphen should be used, except if it comes after a noun. Here are a few examples:
+
+You also use them with compound numbers like "thirty-seven" or "eighty-four." Use them for prefixes as well:
+
+* mid-summer
+
+
+* self-proclaimed activist
+
+
+* t-shirt
+
+
+* ex-boyfriend
+
+
+
+### EM DASH
+
+This is another highly misused form of punctuation. Oftentimes, these can replace parenthesis depending on how you want something to read and look. I could type up a slew of different examples but I think this blog post by Grammarly sums everything up perfectly (and you're likely ready to get to dialogue already)!
+
+### SEMICOLON
+
+Oh, this one. It gives writers some of the most trouble.
+
+A semicolon is best used...hardly ever. It's true! Most of the time, a comma will suffice or you can simply split it into two sentences. However, many times, semicolons can be used to make a character seem smarter, or if you want to give your writing a more educated, professional tone. In this case, you use a semicolon to separate two independent clauses that are closely related to each other. Example:
+
+While you can simply separate these sentences, a semicolon can also be used here.
+
+### PARENTHESIS
+
+Parenthesis can be used in writing, mostly from the first person perspective. This gives your voice a more unique feel and can really add to characterization. Parenthesis are used to include information that doesn't need to be included in the main sentence-extra information, if you will. Example:
+
+### DIALOGUE AND GRAMMAR
+
+This portion can get very, very long and I know you just want to get to the good stuff. So, with that being said, I'm going to give you a quick overview of the "rules" with some examples for each "type" of dialogue and the correct punctuation for them, and you can check out our blog post with more tips for making sure your dialogue sounds natural here. Take note of the red text and how it's formatted:
+
+Single Line Dialogue - Single Line With Dialogue Tag - Questions With Tag - Dialogue Tag, Then Single Sentence - Body Language Between Two Sentences: Body Language In the Middle of One Sentence: Single Line of Dialogue Getting Cut Off: Dialogue Tag in the Middle of a Sentence: Paragraphs of Dialogue From One Person:
+
+### SENTENCE STRUCTURES
+
+The way you structure your sentences and how you put them together with one another is something that takes a long time for writers to get right. There's a very beautiful quote you may have seen before that describes this perfectly:
+
+When writing, think about what your sentences sound like. What rhythm to they produce and how can you manipulate what you're writing in order to meet certain needs? As an example, you can use shorter, quick sentences during high tension moments in order to keep the pace moving at a fast speed. On the contrary, if you have quiet or personal moments, you can choose longer, more elegant sentences to slow it down and allow your readers to breath and truly take in the moment.  Writing is an art. And you get to both pain the visual picture, and the sound your writing makes.
+
+That's it for this lesson! I have a surprise BONUS lesson for you tomorrow... stay tuned!
+
+### RESOURCES
+
+* How to Write Dialogue
+
+
+* Manuscript Format
+
+
+* Narrative Writing
+
+
+* Passive Voice
+
+
+
+---
+
+## Themes & Meaning
+
+I know I said this was 5 lessons long, but I wanted to offer you one more lesson, and it's one that I get asked about the most (and what authors get asked about the most with their books): themes behind the writing. Stories have been around forever, and their purpose is often to send a message or teach a lesson. So, in this lesson, we'll touch on how you can craft a story to have meaning and how to hide themes within your writing. A writer's work is a reflection of what means the most to them. Even if you just want to write a good story, themes and deeper meaning will find its way in no matter what. That said, if you're writing for the purpose of not only crafting an entertaining story but to also share a broader message with your readers, there are ways to intentionally do so.
+
+### THEMES
+
+If you remember sitting in an English or Literature class, you probably wanted to bang your head against the desk at the level of dissection you had to perform on a piece of writing. And in most cases, you probably thought, "What if the author just wanted the curtains to be red because they're pretty...and not because of anything else?" But now, as a writer, you likely think more deeply into what you're writing and how you can use certain symbolism to enhance your themes. But first: what is a theme?
+
+A theme in writing is the underlying idea, message, or lesson within a story. Think of the Tortoise and the Hare, as a widely known example. It's not just a story, it's meant to teach a valuable and important lesson to kids. Your writing can do the same and in all works of literature, they do just that. So first: what's something important to you and your life that you'd like to get across in your story? Here are some examples to help you understand:
+
+* The idea of there not being a true "good" and "evil" but that we all have a bit of both inside of us (Game of Thrones)
+
+
+* Family can be created and is not necessarily made by blood (Harry Potter)
+
+
+* Race/color of skin doesn't matter
+
+
+* We're all the same at the end of the day: human
+
+
+
+Whatever is important to you and what you want to get across can be summed up in this way, and then you can work to bring it to life within your writing.
+
+### BRINGING THEMES TO LIFE
+
+The thing about themes is that you can't just force them down a person's throat-or through their eyes via words. You have to let them come to the conclusion themselves...through a very popular writing technique you already learned about:
+
+Showing and not telling. There are a few ways to do this: obviously the first way is to create a plot that challenges these issues. If your theme is about family and how blood is not what defines it, then you should have conflict between family and a "found family" plot within your story. The second way is to use symbolism.
+
+Symbolism is the use of an object or word to represent something abstract. You may be familiar with crows being a symbolism of death or to foreshadow something bad happening. Many people often use colors to foreshadow and symbolize in stories, hence my earlier example of red curtains. If you wish to symbolize love or romance, you can use reds and pinks in your descriptions. If you wish to show death or destruction, blacks and grays and darker shades can do so. Merging these two techniques allows you to bring your themes and messages alive within the story while not making your story about those things specifically. You can have a family feud and "found family" in a plot about uncovering a deadly curse buried deep within the mountains millions of years ago. Your plot can be made up of events while still showcasing these themes in the way the plot unfolds: In this case, your main character may abandon their blood family, create a new family with people who are helping them uncover this deadly curse in order to save humanity while their "blood family" wanted to uncover it in order to take over the world. This is a drastic example, but I hope you get the idea.
+
+### READERS & A DEEPER MEANING
+
+Ultimately, you can't control what readers take away from your story. Most often, readers will understand what they need to, what's most at the forefront of their own minds. Your job isn't to force an idea upon readers but to allow them the opportunity to explore a broader understanding of life itself through your story. The meaning within the writing only has to be important to you. By creating it this way, it'll bleed through to others as well.
