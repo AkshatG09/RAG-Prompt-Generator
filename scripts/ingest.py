@@ -4,6 +4,7 @@ from typing import List
 
 import chromadb
 from dotenv import load_dotenv
+from markdown_chunker import MarkdownChunkingStrategy
 from openai import OpenAI
 
 # Load environment variables
@@ -71,9 +72,29 @@ def process_and_store_document(filepath: str):
     print(f"Document length: {len(text)} characters")
 
     # Chunk document
-    chunks = chunk_text(text)
+    strategy = MarkdownChunkingStrategy(
+        min_chunk_len=500,
+        soft_max_len=2000,
+        hard_max_len=5000,
+        detect_headers_footers=False,
+        remove_duplicates=False,
+        add_metadata=True,
+    )
 
-    print(f"Generated {len(chunks)} chunks")
+    chunks = strategy.chunk_markdown(text)
+
+    documents = []
+
+    for chunk in chunks:
+        # chunk may contain metadata or be plain string
+        chunk_text = chunk.text if hasattr(chunk, "text") else str(chunk)
+
+        chunk_text = chunk_text.strip()
+
+        if chunk_text:
+            documents.append(chunk_text)
+
+    print(f"Generated {len(documents)} semantic chunks")
 
     # Generate embeddings in batches
     embeddings = get_embeddings(chunks)
@@ -93,5 +114,5 @@ def process_and_store_document(filepath: str):
 # ----------------------------
 if __name__ == "__main__":
     process_and_store_document(
-        r"C:\Users\aksha\Documents\makerCheckerAgent\source_documents\proccessed_documents\better-writer-handbook-and-tutorials(proccessed).txt"
+        r"C:\Users\aksha\Documents\makerCheckerAgent\source_documents\proccessed_documents\better-writer-handbook-and-tutorials(proccessed).md"
     )
