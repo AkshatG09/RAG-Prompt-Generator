@@ -1,3 +1,5 @@
+from datetime import datetime
+
 from pydantic import BaseModel, Field
 
 
@@ -29,3 +31,17 @@ class PromptResponse(BaseModel):
     retrieved_context_used: list[str] | None = Field(
         default=None, description="Optional debug field showing retrieved RAG context"
     )
+
+
+class HistoryEntry(BaseModel):
+    id: str = Field(..., description="MongoDB document ID")
+    user_id: str
+    user_request: str
+    generated_prompt: str
+    retrieved_context: list[str]
+    timestamp: datetime
+
+
+class HistoryResponse(BaseModel):
+    history: list[HistoryEntry]
+    total_count: int

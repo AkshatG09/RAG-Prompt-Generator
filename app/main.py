@@ -1,11 +1,11 @@
 import logging
 from contextlib import asynccontextmanager
 
+from app import database, services
+from app.models import HistoryResponse, PromptRequest, PromptResponse
 from dotenv import load_dotenv
 from fastapi import FastAPI, HTTPException
-
-from app import database, services
-from app.models import PromptRequest, PromptResponse
+from fastapi.middleware.cors import CORSMiddleware
 
 # Load environment variables
 load_dotenv()
@@ -50,6 +50,17 @@ async def lifespan(app: FastAPI):
 # ---------------------------
 app = FastAPI(title="Prompt Engineer RAG API", version="1.0.0", lifespan=lifespan)
 
+# ---------------------------
+# CORS Middleware
+# ---------------------------
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["http://localhost:5173"],
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
+
 
 # ---------------------------
 # Health Check Endpoint
@@ -77,3 +88,18 @@ async def generate_prompt_endpoint(request: PromptRequest):
         logger.exception("Prompt generation failed")
 
         raise HTTPException(status_code=500, detail="Failed to generate prompt.")
+
+
+# ---------------------------
+# History Endpoint
+# ---------------------------
+@app.get("/api/history/{user_id}", response_model=HistoryResponse)
+async def get_history(user_id: str, limit: int = 30, offset: int = 0):
+
+    try:
+        result = await services.get_paginated_history(user_id, limit, offset)
+        return result
+
+    except Exception as e:
+        logger.exception("History retrieval failed")
+        raise HTTPException(status_code=500, detail="Failed to retrieve history.")

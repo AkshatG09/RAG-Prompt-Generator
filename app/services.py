@@ -65,7 +65,41 @@ def retrieve_guidelines(query_text: str, n_results: int = 3) -> str:
 
 
 # -----------------------------
-# MongoDB History Retrieval
+# MongoDB History for Sidebar
+# -----------------------------
+async def get_paginated_history(user_id: str, limit: int = 30, offset: int = 0) -> dict:
+    """Fetches paginated conversation history for the sidebar."""
+
+    collection = database.mongo_db["conversations"]
+
+    total_count = await collection.count_documents({"user_id": user_id})
+
+    cursor = (
+        collection.find({"user_id": user_id})
+        .sort("timestamp", -1)
+        .skip(offset)
+        .limit(limit)
+    )
+
+    history = []
+
+    async for doc in cursor:
+        history.append(
+            {
+                "id": str(doc["_id"]),
+                "user_id": doc["user_id"],
+                "user_request": doc.get("user_request", ""),
+                "generated_prompt": doc.get("generated_prompt", ""),
+                "retrieved_context": doc.get("retrieved_context", []),
+                "timestamp": doc.get("timestamp"),
+            }
+        )
+
+    return {"history": history, "total_count": total_count}
+
+
+# -----------------------------
+# MongoDB History Retrieval (for RAG context)
 # -----------------------------
 async def get_user_history(user_id: str) -> list[dict]:
     """Fetches past conversations for this user from MongoDB."""
