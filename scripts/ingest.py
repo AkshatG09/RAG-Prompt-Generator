@@ -13,10 +13,17 @@ load_dotenv()
 # ----------------------------
 # OpenRouter Client
 # ----------------------------
-client = OpenAI(
+_raw_client = OpenAI(
     base_url="https://openrouter.ai/api/v1",
     api_key=os.getenv("OPENROUTER_API_KEY"),
 )
+
+try:
+    from langsmith.wrappers import wrap_openai
+
+    client = wrap_openai(_raw_client)
+except ImportError:
+    client = _raw_client
 
 # ----------------------------
 # ChromaDB Initialization

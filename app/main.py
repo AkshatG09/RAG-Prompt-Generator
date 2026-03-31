@@ -29,6 +29,12 @@ async def lifespan(app: FastAPI):
 
     logger.info("✅ Databases connected")
 
+    from app.monitoring import get_callbacks
+
+    active_callbacks = get_callbacks()
+    callback_names = [type(cb).__name__ for cb in active_callbacks]
+    logger.info("📊 LLM monitoring initialized with: %s", callback_names)
+
     yield
 
     # Shutdown
