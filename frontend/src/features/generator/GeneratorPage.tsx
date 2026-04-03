@@ -1,16 +1,22 @@
-import { useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { toast } from "sonner";
 import { useGeneratePrompt } from "@/hooks/useGeneratePrompt";
 import { useUserStore } from "@/stores/useUserStore";
+import { useQueryClient } from "@tanstack/react-query";
 import PromptInputCard from "@/components/prompt/PromptInputCard";
 import GenerateButton from "@/components/prompt/GenerateButton";
 import TemplateGrid from "@/components/prompt/TemplateGrid";
 import PromptOutputCard from "@/components/prompt/PromptOutputCard";
 
-export default function GeneratorPage() {
+export default function GeneratorPage({
+  request,
+  setRequest,
+}: {
+  request: string;
+  setRequest: (v: string) => void;
+}) {
   const { userId, specialization } = useUserStore();
-  const [request, setRequest] = useState("");
+  const queryClient = useQueryClient();
 
   const mutation = useGeneratePrompt();
 
@@ -22,7 +28,10 @@ export default function GeneratorPage() {
         requestDescription: request,
       },
       {
-        onSuccess: () => toast.success("Prompt generated!"),
+        onSuccess: () => {
+          toast.success("Prompt generated!");
+          queryClient.invalidateQueries({ queryKey: ["history"] });
+        },
         onError: () => toast.error("Generation failed"),
       }
     );
